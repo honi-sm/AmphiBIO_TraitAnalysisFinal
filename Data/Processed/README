@@ -1,0 +1,5 @@
+# Processed Data Folder
+
+This folder contains the cleaned and sampled versions of the AmphiBIO dataset.  
+These files were filtered for complete data rows, renamed using camelCase variables and clarity, and randomly sampled (n = 500) for analysis.  
+The raw version is available in `/Data/raw/`. 
