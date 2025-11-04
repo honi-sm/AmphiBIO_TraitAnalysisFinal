@@ -1,5 +1,53 @@
-# Processed Data Folder
+# Cleaned AmphiBIO dataset
 
-This folder contains the cleaned and sampled versions of the AmphiBIO dataset.  
-These files were filtered for complete data rows, renamed using camelCase variables and clarity, and randomly sampled (n = 500) for analysis.  
-The raw version is available in `/Data/raw/`. 
+**Author:** Lia Grace Stratos  
+**Affiliation:** University of Nebraska Omaha  
+**Date finalized:** November 2025  
+**License:** CC BY 4.0 
+## Overview
+This repository contains a cleaned and verified subset of amphibian life-history trait data derived from the global AmphiBIO dataset.  
+The raw dataset included 6,777 rows representing amphibian species with varying levels of data completeness.  
+After filtering and validation, 1,481 species with complete trait information were retained for further analysis.
+
+The cleaned dataset focuses on five core variables that describe morphology and reproduction:
+- Adult body length (mm)
+- Minimum and maximum clutch size
+- Combined habitat type (fossorial, terrestrial, aquatic, arboreal)
+- Primary reproductive mode (direct, larval, or viviparous)
+
+A simple random sample of 500 species generated for analysis (ANOVA and Chi-square).
+
+## Data Summary
+
+| File | Rows | Description |
+|------|------|-------------|
+| `data/rawData.xlsx` | 6,777 | Unfiltered raw dataset |
+| `data/cleanData.xlsx` | 1,481 | Cleaned and verified dataset |
+| `data/randomSample_500.xlsx` | 500 | Random subset for statistical analysis |
+| `docs/metadata.md` | — | Variable definitions and data structure |
+| `docs/processing_notes.md` | — | Complete data-cleaning workflow and validation log |
+
+## Cleaning and Validation
+- Rows missing key numeric fields (`Body_size_mm`, `Litter_size_min_n`, `Litter_size_max_n`) were removed.  
+- Binary habitat fields (`Fos`, `Ter`, `Aqu`, `Arb`) were collapsed into one combined text column (`habitatType`).  
+- Reproductive mode binaries (`Dir`, `Lar`, `Viv`) were combined into one categorical field (`reproductiveMethod`).  
+- Columns were renamed to standardized, machine-readable headers (`bodyLengthMm`, `clutchSizeMinN`, `clutchSizeMaxN`).  
+- Duplicate species were removed, retaining 1,481 unique records.  
+- All retained fields were cross-checked with the original raw dataset using Excel `INDEX/MATCH` verification to confirm value alignment.  
+- Numeric fields were reviewed for outliers and biologically implausible values; none were detected.
+
+## Sampling
+A random column was generated in Excel using `RANDBETWEEN(1,1481)`, frozen via Paste-Values, and sorted ascending.  
+The first 500 rows were selected as a random sample without replacement.  
+This subset was saved as `randomSample_500.xlsx` for statistical analysis.
+
+For a population size of 1,481, a sample size of 500 yields a 95 % confidence margin of error of approximately ±3.6 %.
+
+## Intended Use
+This dataset supports research in ecology, evolutionary biology, and biostatistics.  
+It can be used for trait-based analyses, teaching exercises in data cleaning, or reproducibility demonstrations in Python or R, as I will do later.
+
+## Reproducibility
+Replication scripts are provided:
+- `scripts/clean_dataset.py` — Python version (pandas)
+- `scripts/clean_dataset.R` — R version (dplyr)
