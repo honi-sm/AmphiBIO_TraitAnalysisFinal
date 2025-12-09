@@ -1,21 +1,21 @@
 # Cleaned AmphiBIO dataset
 
-**Author:** Lia Grace Stratos  
+**Author:** Lia Grace Stratos!
 **Affiliation:** University of Nebraska Omaha  
-**Date finalized:** November 2025  
+**Date finalized:** Dec 2025
 **License:** CC BY 4.0 
 ## Overview
-This repository contains a cleaned and verified subset of amphibian life-history trait data derived from the global AmphiBIO dataset.  
-The raw dataset included 6,777 rows representing amphibian species with varying levels of data completeness.  
-After filtering and validation, 1,481 species with complete trait information were retained for further analysis.
+This repository is a squeaky clean subset of amphibian trait data derived from the global AmphiBIO dataset.  
+Raw dataset included 6,777 rows representing amphibian species with varying levels of data collection, some had NA.  
+My Cooked dataset has 1,481 species with complete trait information, retained in a seed for further analysis.
 
-The cleaned dataset focuses on five core variables that describe morphology and reproduction:
+This one focuses on five variables that describe morphology and reproduction:
 - Adult body length (mm)
 - Minimum and maximum clutch size
-- Combined habitat type (fossorial, terrestrial, aquatic, arboreal)
+- Habitat type (fossorial, terrestrial, aquatic, arboreal)
 - Primary reproductive mode (direct, larval, or viviparous)
 
-A simple random sample of 500 species generated for analysis (ANOVA and Chi-square).
+A simple random sample of 500 species generated for analysis.
 
 ## Data Summary
 
