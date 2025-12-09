@@ -1,0 +1,501 @@
+Species,bodyLengthMm,clutchSizeMinN,clutchSizeMaxN,habitatType,reproductiveMethod
+atelopus cruciger,50.0,271.0,271.0,terrestrial + aquatic,larval
+limnonectes microdiscus,70.0,53.0,53.0,terrestrial + aquatic,larval
+hyla savignyi,49.0,200.0,1000.0,aquatic + arboreal,larval
+scinax littoralis,39.9,398.0,701.0,terrestrial + aquatic + arboreal,larval
+lithobates forreri,114.0,100.0,100.0,terrestrial + aquatic,larval
+litoria lorica,35.0,50.0,163.0,terrestrial + aquatic + arboreal,larval
+hylodes asper,44.9,57.0,114.0,terrestrial + aquatic + arboreal,larval
+litoria fallax,25.0,263.0,1000.0,terrestrial + arboreal,larval
+gastrotheca christiani,40.0,2.0,10.0,terrestrial + aquatic + arboreal,larval
+hypsiboas rosenbergi,95.0,265.0,2500.0,terrestrial + aquatic + arboreal,larval
+boophis xerophilus,48.8,999.0,4235.0,terrestrial + arboreal,larval
+leptodactylus albilabris,49.0,138.0,200.0,terrestrial + aquatic + arboreal,larval
+pseudophryne dendyi,35.0,70.0,170.0,terrestrial + aquatic,larval
+hyloxalus elachyhistus,25.7,8.0,19.0,terrestrial + aquatic,larval
+eleutherodactylus cuneatus,60.3,27.0,43.0,terrestrial + aquatic + arboreal,direct
+aphantophryne sabini,24.1,13.0,18.0,terrestrial + aquatic,direct
+hoplobatrachus rugulosus,82.4,600.0,2000.0,terrestrial + aquatic + arboreal,larval
+hyla chinensis,34.2,459.0,459.0,aquatic + arboreal,larval
+atelopus ignescens,48.2,372.0,372.0,terrestrial + aquatic,larval
+platyplectrum spenceri,50.0,1128.0,1128.0,fossorial + terrestrial,larval
+leptodactylus mystaceus,60.0,171.0,425.0,fossorial + terrestrial + aquatic,larval
+leptobrachium ailaonicum,75.6,245.0,436.0,terrestrial,larval
+ischnocnema randorum,18.2,7.0,7.0,terrestrial,direct
+hylarana nigrovittata,70.0,232.0,330.0,terrestrial + aquatic,larval
+quasipaa verrucospinosa,146.5,164.0,6172.0,terrestrial + aquatic,larval
+dendropsophus elegans,35.7,300.0,411.0,terrestrial + arboreal,larval
+chiromantis vittatus,25.7,217.0,217.0,terrestrial + arboreal,larval
+scinax angrensis,39.2,369.0,516.0,terrestrial + aquatic + arboreal,larval
+dendropsophus sarayacuensis,44.0,51.0,186.0,terrestrial + aquatic + arboreal,larval
+caecilia orientalis,625.0,30.0,120.0,fossorial + terrestrial + aquatic,larval
+bolitoglossa orestes,46.9,2545.0,2545.0,terrestrial + aquatic,direct
+pristimantis conspicillatus,49.0,62.0,62.0,terrestrial + arboreal,direct
+zachaenus carvalhoi,37.0,37.0,37.0,terrestrial + aquatic,larval
+polypedates maculatus,83.0,599.0,599.0,terrestrial + arboreal,larval
+phyllobates aurotaenia,34.0,30.0,30.0,terrestrial + aquatic,larval
+pristimantis paululus,21.0,5.0,5.0,terrestrial + arboreal,direct
+salamandrella keyserlingii,145.0,70.0,70.0,terrestrial + aquatic,larval
+meristogenys jerboa,88.7,600.0,2463.0,fossorial + terrestrial + aquatic,larval
+odorrana swinhoana,84.6,45.0,45.0,terrestrial + aquatic,larval
+amietia fuscigula,125.0,15000.0,15000.0,terrestrial + aquatic,larval
+brachytarsophrys feae,101.2,1000.0,1001.0,terrestrial + aquatic + arboreal,larval
+hyperolius thomensis,47.0,50.0,60.0,aquatic + arboreal,larval
+lithobates catesbeianus,203.0,8000.0,25500.0,terrestrial + aquatic,larval
+hypsiboas boans,132.0,1160.0,4800.0,terrestrial + aquatic + arboreal,larval
+hyperolius kivuensis,39.0,190.0,243.0,terrestrial + aquatic + arboreal,larval
+plectrohyla matudai,49.0,101.0,144.0,terrestrial + aquatic + arboreal,larval
+melanophryniscus moreirae,30.0,78.0,78.0,terrestrial + aquatic,larval
+gyrinophilus porphyriticus,232.0,16.0,106.0,terrestrial + aquatic,larval
+leptodactylus latinasus,40.0,3696.0,3696.0,terrestrial + aquatic,larval
+dendropsophus haddadi,24.0,45.0,45.0,terrestrial + aquatic,larval
+hypsiboas cinerascens,36.2,165.0,840.0,terrestrial + arboreal,larval
+craugastor fitzingeri,53.0,24.0,92.0,terrestrial + arboreal,direct
+gastrotheca marsupiata,49.6,167.0,167.0,terrestrial + aquatic,larval
+eleutherodactylus orientalis,13.3,1.0,1.0,terrestrial + aquatic,direct
+hypsiboas raniceps,82.0,217.0,3096.0,terrestrial + arboreal,larval
+anaxyrus californicus,81.0,2013.0,10368.0,terrestrial,larval
+rhinella schneideri,250.0,217.0,3000.0,terrestrial + aquatic,larval
+hypsiboas curupi,47.0,263.0,263.0,terrestrial + aquatic + arboreal,larval
+nanorana ercepeae,86.0,188.0,188.0,terrestrial,larval
+scinax acuminatus,48.0,594.0,1352.0,terrestrial + aquatic + arboreal,larval
+pelodytes caucasicus,47.16,415.0,415.0,fossorial + terrestrial + aquatic,larval
+incilius coccifer,99.0,3000.0,6000.0,terrestrial,larval
+bufo verrucosissimus,190.0,190.0,10500.0,terrestrial + aquatic,larval
+dendropsophus triangulum,42.0,79.0,690.0,terrestrial + aquatic + arboreal,larval
+speleomantes supramontis,135.0,10.0,10.0,terrestrial + aquatic,direct
+hyperolius viridiflavus,34.0,12.0,650.0,terrestrial + arboreal,larval
+cruziohyla calcarifer,87.0,10.0,54.0,arboreal,larval
+hyperolius parkeri,28.0,36.0,110.0,terrestrial + arboreal,larval
+lithobates sevosus,105.0,500.0,7000.0,terrestrial + aquatic,larval
+litoria chloris,70.0,1053.0,1053.0,terrestrial + aquatic + arboreal,larval
+dermatonotus muelleri,74.15,3696.0,3696.0,fossorial + terrestrial + aquatic,larval
+limnonectes arathooni,39.6,10.0,29.0,terrestrial + aquatic,larval
+flectonotus pygmaeus,32.4,5.0,13.0,terrestrial + arboreal,larval
+nasikabatrachus sahyadrensis,90.0,1100.0,3600.0,fossorial,larval
+pelophylax cretensis,80.0,15000.0,15000.0,terrestrial + aquatic,larval
+mixophyes fleayi,80.0,120.0,1750.0,terrestrial + aquatic,larval
+capensibufo rosei,39.0,200.0,200.0,terrestrial + aquatic,larval
+paramesotriton guanxiensis,139.0,115.0,115.0,aquatic,larval
+metacrinia nichollsi,25.0,12.0,30.0,terrestrial + aquatic,direct
+oreolalax multipunctatus,49.8,78.0,78.0,terrestrial + aquatic + arboreal,larval
+amietophrynus gutturalis,120.0,15000.0,25000.0,terrestrial,larval
+nyctibatrachus humayuni,50.6,28.0,38.0,terrestrial + aquatic + arboreal,larval
+nelsonophryne aterrima,70.0,75.0,75.0,fossorial + terrestrial + aquatic,larval
+phyllomedusa sauvagii,96.6,201.0,829.0,terrestrial + aquatic + arboreal,larval
+pseudopaludicola boliviana,14.1,50.0,319.0,terrestrial + aquatic,larval
+uperoleia crassa,30.0,368.0,368.0,terrestrial + aquatic,larval
+nanorana liebigii,169.0,104.0,104.0,terrestrial,larval
+leptodactylus diptyx,25.0,26.0,146.0,fossorial + terrestrial + aquatic,larval
+hyloxalus vertebralis,20.2,5.0,12.0,terrestrial,larval
+strabomantis anomalus,92.4,69.0,69.0,terrestrial + aquatic,direct
+leptodactylus podicipinus,54.0,1708.0,2953.0,terrestrial + aquatic,larval
+geocrinia rosea,25.0,25.0,30.0,terrestrial + aquatic,direct
+ambystoma barbouri,168.0,260.0,260.0,fossorial + terrestrial + aquatic,larval
+litoria watjulumensis,75.0,30.0,200.0,terrestrial + aquatic + arboreal,larval
+pelophylax bergeri,80.0,3000.0,3000.0,terrestrial + aquatic,larval
+tomopterna marmorata,50.0,150.0,150.0,fossorial + terrestrial + aquatic,larval
+litoria havina,38.0,3.0,36.0,terrestrial + aquatic + arboreal,larval
+neobatrachus kunapalari,62.2,21.0,1616.0,fossorial + terrestrial + aquatic,larval
+eleutherodactylus adelus,15.0,3.0,4.0,terrestrial,direct
+bolitoglossa adspersa,66.0,10.0,10.0,terrestrial + aquatic,direct
+hyla arenicolor,57.1,232.0,232.0,terrestrial + aquatic + arboreal,larval
+arthroleptis xenodactyloides,23.8,13.0,30.0,terrestrial + aquatic,direct
+oxydactyla brevicrus,27.2,14.0,14.0,terrestrial + aquatic,direct
+rana italica,60.0,2000.0,2000.0,terrestrial + aquatic + arboreal,larval
+pseudepidalea pewzowi,80.3,3250.0,3250.0,terrestrial,larval
+thoropa lutzi,30.0,265.0,265.0,terrestrial + aquatic + arboreal,larval
+cophixalus parkeri,33.1,18.0,18.0,terrestrial + arboreal,direct
+hylarana temporalis,79.4,800.0,1200.0,terrestrial + aquatic,larval
+strabomantis sulcatus,59.7,32.0,32.0,terrestrial,direct
+gastrotheca orophylax,74.0,12.0,32.0,terrestrial + aquatic,direct
+hylodes dactylocinus,31.0,40.0,60.0,terrestrial + aquatic,larval
+litoria meiriana,23.0,30.0,115.0,terrestrial + aquatic + arboreal,larval
+uperoleia mimula,25.0,140.0,270.0,terrestrial + aquatic,larval
+litoria spenceri,55.0,200.0,1000.0,terrestrial + aquatic,larval
+rana latastei,75.0,400.0,450.0,terrestrial + aquatic + arboreal,larval
+stefania woodleyi,61.0,6.0,6.0,terrestrial + aquatic,direct
+amolops wuyiensis,49.0,600.0,601.0,terrestrial + aquatic + arboreal,larval
+atelopus franciscus,26.5,250.0,250.0,terrestrial + aquatic,larval
+bufo bankorensis,110.0,3725.0,3725.0,terrestrial + aquatic,larval
+dendropsophus robertmertensi,28.1,265.0,265.0,terrestrial + aquatic + arboreal,larval
+lithobates tarahumarae,113.0,2200.0,2200.0,terrestrial + aquatic,larval
+ceratophrys cranwelli,158.0,3696.0,3696.0,fossorial + terrestrial,larval
+lithobates chiricahuensis,135.0,892.0,892.0,terrestrial + aquatic,larval
+stefania ginesi,71.8,7.0,12.0,terrestrial + aquatic + arboreal,direct
+euproctus platycephalus,150.0,220.0,220.0,fossorial + terrestrial + aquatic,larval
+bokermannohyla oxente,47.15,292.0,313.0,terrestrial + arboreal,larval
+trachycephalus mesophaeus,80.5,700.0,2781.0,terrestrial + aquatic + arboreal,larval
+adelophryne maranguapensis,17.4,3.0,8.0,terrestrial + aquatic + arboreal,direct
+ascaphus truei,50.0,28.0,96.0,terrestrial + aquatic,larval
+itapotihyla langsdorffii,112.0,711.0,7953.0,terrestrial + arboreal,larval
+ranitomeya virolinensis,18.9,2.0,3.0,terrestrial + arboreal,larval
+litoria iris,43.0,4.0,37.0,terrestrial + aquatic + arboreal,larval
+amolops cremnobatus,40.6,10.0,30.0,terrestrial + aquatic + arboreal,larval
+mixophyes fasciolatus,97.0,150.0,2005.0,terrestrial + aquatic,larval
+scinax x-signatus,48.0,270.0,270.0,terrestrial + aquatic + arboreal,larval
+dicamptodon tenebrosus,340.0,83.0,146.0,fossorial + terrestrial + aquatic,larval
+spea bombifrons,64.0,300.0,462.0,terrestrial + aquatic + arboreal,larval
+physalaemus atlanticus,26.8,51.0,130.0,terrestrial + aquatic,larval
+oophaga arborea,22.2,4.0,8.0,arboreal,larval
+hypsiboas albopunctatus,75.0,552.0,997.0,aquatic + arboreal,larval
+bufo aspinius,95.0,2250.0,2250.0,terrestrial + aquatic,larval
+hemiphractus helioi,57.9,17.0,18.0,arboreal,direct
+pristimantis avius,33.1,18.0,18.0,terrestrial,direct
+litoria vocivincens,26.5,200.0,400.0,terrestrial + aquatic + arboreal,larval
+gephyromantis webbi,31.0,7.0,7.0,terrestrial,larval
+ambystoma tigrinum,330.0,421.0,7000.0,fossorial + terrestrial + aquatic,larval
+batrachoseps gregarius,82.6,10.0,29.0,fossorial + terrestrial + aquatic,direct
+cycloramphus stejnegeri,56.0,30.0,30.0,terrestrial + aquatic,larval
+chiasmocleis leucosticta,23.6,203.0,203.0,terrestrial + aquatic,larval
+osteopilus vastus,142.0,332.0,332.0,terrestrial + arboreal,larval
+breviceps mossambicus,52.0,20.0,30.0,fossorial + terrestrial + aquatic,direct
+litoria auae,41.8,200.0,200.0,arboreal,larval
+rhinella dapsilis,77.0,22.0,22.0,terrestrial,larval
+centrolene geckoideum,74.5,112.0,112.0,terrestrial + arboreal,larval
+scaphiopus hurterii,83.0,232.0,232.0,fossorial + terrestrial + aquatic,larval
+physalaemus riograndensis,16.91,200.0,250.0,terrestrial + aquatic,larval
+neobatrachus wilsmorei,60.0,2000.0,2000.0,fossorial + terrestrial + aquatic,larval
+leptodactylus marmoratus,25.0,2.0,14.0,terrestrial,larval
+hyla avivoca,52.0,18.0,800.0,terrestrial + aquatic + arboreal,larval
+scutiger boulengeri,62.0,380.0,990.0,terrestrial + aquatic + arboreal,larval
+eleutherodactylus pantoni,44.0,78.0,104.0,terrestrial + aquatic,direct
+lepidobatrachus laevis,120.5,3696.0,3696.0,fossorial,larval
+limnonectes grunniens,170.0,858.0,2062.0,terrestrial + aquatic,larval
+hyalinobatrachium talamancae,27.0,28.0,30.0,terrestrial + aquatic + arboreal,larval
+rhinella fernandezae,76.0,9000.0,15000.0,terrestrial,larval
+philoria pughi,30.0,40.0,42.0,terrestrial + aquatic + arboreal,larval
+platymantis vitiensis,60.0,20.0,40.0,terrestrial + arboreal,direct
+mannophryne lamarcai,30.8,10.0,10.0,terrestrial + aquatic,larval
+lissotriton boscai,100.0,250.0,250.0,terrestrial + aquatic,larval
+neobatrachus sutor,45.0,1000.0,1000.0,fossorial + terrestrial + aquatic,larval
+paratelmatobius cardosoi,17.9,20.0,20.0,terrestrial + aquatic,larval
+pleurodeles waltl,300.0,150.0,1400.0,fossorial + aquatic,larval
+allobates nidicola,21.4,2.0,6.0,terrestrial,direct
+litoria novaehollandiae,100.0,1000.0,1000.0,fossorial + terrestrial,larval
+plethodon dunni,150.0,4.0,15.0,terrestrial + aquatic,direct
+blommersia domerguei,20.3,51.0,82.0,terrestrial + arboreal,larval
+physalaemus gracilis,40.0,100.0,700.0,terrestrial + aquatic,larval
+epipedobates tricolor,26.5,5.0,300.0,terrestrial + aquatic,larval
+hyla andersonii,51.0,18.0,1000.0,terrestrial + arboreal,larval
+ranitomeya variabilis,21.0,2.0,13.0,terrestrial + arboreal,larval
+hemiphractus scutatus,81.0,10.0,17.0,terrestrial + aquatic + arboreal,direct
+oreolalax puxiongensis,50.0,102.0,151.0,terrestrial + aquatic + arboreal,larval
+pseudacris nigrita,32.0,59.0,800.0,fossorial + terrestrial + aquatic,larval
+hypsiboas goianus,38.3,126.0,226.0,terrestrial + arboreal,larval
+dendropsophus microcephalus,32.0,49.0,385.0,terrestrial + aquatic + arboreal,larval
+strongylopus bonaespei,42.0,6.0,7.0,terrestrial + aquatic,larval
+isthmohyla rivularis,43.0,76.0,104.0,terrestrial + aquatic,larval
+amolops ricketti,60.7,990.0,991.0,terrestrial + aquatic,larval
+craugastor augusti,95.0,59.0,76.0,terrestrial + aquatic,direct
+atelopus sernai,33.3,220.0,220.0,terrestrial + aquatic,larval
+phrynobatrachus phyllophilus,23.0,24.0,41.0,terrestrial + aquatic,larval
+hyperolius spinigularis,28.0,150.0,200.0,terrestrial + aquatic + arboreal,larval
+litoria revelata,35.0,200.0,1000.0,terrestrial + aquatic + arboreal,larval
+amolops loloensis,77.5,153.0,154.0,terrestrial + aquatic + arboreal,larval
+plethodon angusticlavius,79.0,3.0,9.0,terrestrial + aquatic,direct
+smilisca sila,62.2,473.0,473.0,terrestrial + aquatic + arboreal,larval
+scarthyla goinorum,23.0,22.0,198.0,aquatic + arboreal,larval
+guibemantis depressiceps,45.0,12.0,120.0,arboreal,larval
+ptychohyla leonhardschultzei,43.4,265.0,265.0,terrestrial + aquatic + arboreal,larval
+ambystoma cingulatum,129.0,1.0,34.0,fossorial + terrestrial + aquatic,larval
+hypsiboas calcaratus,61.0,186.0,1600.0,terrestrial + aquatic + arboreal,larval
+hyla eximia,56.0,265.0,265.0,terrestrial + aquatic + arboreal,larval
+hyperolius frontalis,35.0,24.0,24.0,terrestrial + aquatic + arboreal,larval
+pseudoeurycea goebeli,142.0,30.0,30.0,fossorial + terrestrial + aquatic,direct
+rhacophorus dugritei,56.7,400.0,400.0,terrestrial + aquatic,larval
+leptodactylus bolivianus,120.0,650.0,1500.0,terrestrial + aquatic,larval
+pelophylax kurtmuelleri,100.0,10000.0,10000.0,terrestrial + aquatic,larval
+heleophryne purcelli,56.0,50.0,208.0,terrestrial + aquatic,larval
+cacosternum karooicum,30.8,323.0,323.0,terrestrial + aquatic + arboreal,larval
+hemisus guttatus,80.0,200.0,2000.0,fossorial,larval
+smilisca sordida,64.0,856.0,856.0,terrestrial + aquatic + arboreal,larval
+dendropsophus miyatai,25.0,62.0,400.0,terrestrial + arboreal,larval
+hyloxalus awa,25.9,4.0,21.0,terrestrial,larval
+limnodynastes salmini,75.0,2000.0,2035.0,terrestrial + aquatic + arboreal,larval
+stefania satelles,59.5,2.0,8.0,terrestrial + aquatic + arboreal,direct
+oreophryne clamata,20.4,9.0,10.0,terrestrial + arboreal,direct
+bombina pachypus,45.75,300.0,300.0,fossorial + terrestrial + aquatic,larval
+andrias japonicus,1360.0,400.0,600.0,aquatic,larval
+duellmanohyla rufioculis,40.0,82.0,265.0,terrestrial + arboreal,larval
+adelphobates castaneoticus,22.7,2.0,12.0,terrestrial,larval
+xenophrys omeimontis,72.5,357.0,6000.0,terrestrial + aquatic + arboreal,larval
+siren intermedia,686.0,130.0,1500.0,fossorial + terrestrial + aquatic,larval
+breviceps adspersus,60.0,46.0,46.0,fossorial + terrestrial + aquatic,direct
+litoria gracilenta,45.0,400.0,1100.0,terrestrial + aquatic + arboreal,larval
+dendropsophus berthalutzae,24.0,43.0,70.0,terrestrial + aquatic,larval
+elachistocleis skotogaster,34.4,1072.0,1072.0,terrestrial + aquatic,larval
+bolitoglossa obscura,87.7,31.0,31.0,,direct
+phyllomedusa burmeisteri,79.0,436.0,436.0,terrestrial + aquatic + arboreal,larval
+hypsiboas geographicus,85.0,186.0,4300.0,terrestrial + aquatic + arboreal,larval
+ambystoma gracile,219.0,30.0,270.0,terrestrial + aquatic + arboreal,larval
+pipa pipa,171.0,65.0,140.0,fossorial + aquatic,direct
+atelopus vogli,39.0,260.0,260.0,terrestrial + aquatic,larval
+rhinella ocellata,53.0,1120.0,1120.0,terrestrial,larval
+hemisus barotseensis,55.01,150.0,200.0,fossorial,larval
+oophaga vicentei,21.0,2.0,6.0,arboreal,larval
+neobatrachus pictus,50.0,1000.0,1000.0,fossorial + terrestrial + aquatic,larval
+paramesotriton hongkongensis,143.0,115.0,115.0,aquatic,larval
+rhyacotriton variegatus,115.0,11.0,11.0,terrestrial + aquatic + arboreal,larval
+altiphrynoides malcolmi,31.5,11.0,31.0,terrestrial + arboreal,larval
+hypsiboas crepitans,75.0,1064.0,2131.0,terrestrial + arboreal,larval
+eleutherodactylus auriculatus,24.0,20.0,36.0,terrestrial + arboreal,direct
+nanorana pleskei,37.3,50.0,50.0,terrestrial + aquatic + arboreal,larval
+hyla sarda,50.0,250.0,1000.0,terrestrial + aquatic + arboreal,larval
+boophis viridis,35.0,154.0,154.0,arboreal,larval
+scinax cuspidatus,32.5,55.0,286.0,terrestrial + aquatic + arboreal,larval
+telmatobius culeus,146.0,500.0,500.0,aquatic,larval
+flectonotus ohausi,34.7,15.0,15.0,terrestrial + arboreal,larval
+bombina orientalis,47.0,38.0,257.0,fossorial + terrestrial + aquatic,larval
+plectrohyla sagorum,52.0,114.0,168.0,terrestrial + aquatic + arboreal,larval
+boophis doulioti,52.4,1918.0,4784.0,terrestrial + arboreal,larval
+pseudotriton montanus,207.0,77.0,192.0,terrestrial + aquatic,larval
+hypsiboas marianitae,56.8,300.0,300.0,terrestrial + arboreal,larval
+hylarana macrodactyla,39.8,300.0,300.0,terrestrial,larval
+austrochaperina brevipes,28.0,10.0,14.0,terrestrial + aquatic,direct
+pyxicephalus edulis,140.0,900.0,3500.0,fossorial + terrestrial + aquatic,larval
+hypsiboas multifasciatus,83.0,1343.0,1343.0,terrestrial + aquatic + arboreal,larval
+litoria inermis,35.0,96.0,330.0,terrestrial + aquatic + arboreal,larval
+litoria lesueurii,70.0,1000.0,1720.0,terrestrial + aquatic + arboreal,larval
+eleutherodactylus antillensis,33.0,24.0,42.0,terrestrial + aquatic + arboreal,direct
+litoria latopalmata,40.0,200.0,200.0,terrestrial + aquatic + arboreal,larval
+centrolene buckleyi,32.8,18.0,18.0,terrestrial + arboreal,larval
+nectophrynoides minutus,22.0,20.0,31.0,terrestrial + aquatic,viviparous
+ptychadena tellinii,57.0,2011.0,2011.0,terrestrial + aquatic,larval
+boophis picturatus,33.3,50.0,50.0,arboreal,larval
+eleutherodactylus johnstonei,35.0,10.0,30.0,terrestrial + arboreal,direct
+oreolalax rugosus,55.3,436.0,436.0,terrestrial + aquatic + arboreal,larval
+scinax elaeochrous,40.3,80.0,80.0,terrestrial + aquatic + arboreal,larval
+nyctibatrachus aliciae,32.0,17.0,17.0,terrestrial + aquatic + arboreal,larval
+hyloscirtus caucanus,64.4,120.0,120.0,terrestrial + aquatic + arboreal,larval
+eleutherodactylus cundalli,46.5,33.0,76.0,fossorial + terrestrial + aquatic,direct
+anaxyrus terrestris,116.3,4000.0,4000.0,fossorial + terrestrial,larval
+pristimantis ockendeni,29.5,5.0,28.0,terrestrial + arboreal,direct
+assa darlingtoni,30.0,11.0,14.0,terrestrial + aquatic,larval
+dendropsophus brevifrons,25.0,35.0,114.0,terrestrial + aquatic + arboreal,larval
+lithobates palmipes,126.0,186.0,6750.0,terrestrial + aquatic,larval
+hypsiboas freicanecae,42.2,30.0,30.0,terrestrial + arboreal,larval
+brachycephalus ephippium,19.7,5.0,5.0,terrestrial + aquatic,direct
+rana luteiventris,90.0,150.0,2400.0,fossorial + terrestrial + aquatic,larval
+hylodes sazimai,30.3,109.0,109.0,terrestrial + aquatic,larval
+discoglossus galganoi,80.0,300.0,1500.0,fossorial + terrestrial + aquatic,larval
+dendropsophus werneri,23.0,188.0,310.0,terrestrial + aquatic + arboreal,larval
+physalaemus albonotatus,34.1,9.0,1562.0,terrestrial + aquatic,larval
+lissotriton vulgaris,110.0,300.0,300.0,terrestrial,larval
+telmatobufo bullocki,83.0,112.0,112.0,terrestrial + aquatic + arboreal,larval
+discoglossus jeanneae,60.0,1500.0,1500.0,fossorial + terrestrial + aquatic,larval
+eurycea bislineata,123.0,12.0,43.0,terrestrial + aquatic,larval
+ameerega bassleri,42.0,17.0,17.0,terrestrial,larval
+leptopelis flavomaculatus,70.0,250.0,250.0,terrestrial + aquatic + arboreal,larval
+limnodynastes tasmaniensis,50.5,90.0,1350.0,terrestrial + aquatic + arboreal,larval
+arenophryne rotunda,33.0,4.0,11.0,fossorial + terrestrial + aquatic,direct
+phyllomedusa megacephala,60.2,5.0,52.0,arboreal,larval
+desmognathus ochrophaeus,90.5,3.0,37.0,terrestrial + aquatic,larval
+eurycea quadridigitata,90.0,7.0,62.0,terrestrial + aquatic,larval
+poyntonophrynus fenoulheti,43.0,245.0,245.0,terrestrial + aquatic,larval
+atelopus zeteki,63.0,623.0,623.0,terrestrial + aquatic,larval
+engystomops coloradorum,21.62,70.0,190.0,terrestrial,larval
+hynobius takedai,124.0,67.0,107.0,terrestrial + aquatic,larval
+phaeognathus hubrichti,178.0,40.0,48.0,fossorial + aquatic,direct
+cophixalus ornatus,25.0,16.0,16.0,terrestrial + aquatic,direct
+strongylopus merumontanus,46.0,1.0,14.0,terrestrial + aquatic,larval
+pseudopaludicola ternetzi,20.0,41.0,52.0,terrestrial + aquatic,larval
+osteocephalus taurinus,103.9,550.0,2000.0,terrestrial + aquatic + arboreal,larval
+ameerega erythromos,25.2,3.0,3.0,terrestrial,larval
+nyctixalus margaritifer,35.0,15.0,15.0,terrestrial + arboreal,larval
+pseudis minuta,51.1,272.0,700.0,fossorial + aquatic,larval
+aplastodiscus cochranae,50.3,281.0,385.0,terrestrial + aquatic + arboreal,larval
+dendropsophus rossalleni,23.0,73.0,162.0,aquatic + arboreal,larval
+atelopus subornatus,39.0,189.0,189.0,terrestrial + aquatic,larval
+geocrinia victoriana,35.0,126.0,126.0,terrestrial + aquatic,larval
+rana chensinensis,63.2,165.0,2000.0,terrestrial + aquatic + arboreal,larval
+glandirana emeljanovi,55.4,436.0,1130.0,terrestrial + aquatic,larval
+limnonectes leytensis,49.6,30.0,62.0,terrestrial + aquatic,larval
+dendropsophus joannae,20.6,207.0,207.0,terrestrial + aquatic,larval
+scinax eurydice,53.8,1486.0,1913.0,terrestrial + aquatic + arboreal,larval
+rhacophorus kio,81.6,265.0,265.0,arboreal,larval
+pseudepidalea raddei,89.0,6000.0,6000.0,terrestrial,larval
+amietophrynus regularis,130.0,9000.0,13000.0,terrestrial,larval
+lechriodus fletcheri,52.0,300.0,300.0,fossorial + terrestrial + aquatic,larval
+rana sakuraii,58.3,100.0,160.0,terrestrial + aquatic,larval
+plectrohyla quecchi,47.0,92.0,97.0,terrestrial + aquatic + arboreal,larval
+scinax alter,32.0,297.0,581.0,terrestrial + aquatic + arboreal,larval
+scaphiophryne menabensis,45.0,450.0,670.0,terrestrial,larval
+litoria longipes,45.0,50.0,2000.0,fossorial + terrestrial,larval
+scutiger pingwuensis,77.5,505.0,505.0,terrestrial + aquatic + arboreal,larval
+synapturanus mirandaribeiroi,42.0,9.0,9.0,fossorial + terrestrial + aquatic,larval
+adelophryne gutturosa,16.0,1.0,1.0,terrestrial + aquatic,direct
+mantella aurantiaca,31.0,40.0,232.0,terrestrial + aquatic,larval
+phyllomedusa tetraploidea,69.4,130.0,332.0,terrestrial + aquatic + arboreal,larval
+mannophryne trinitatis,29.0,10.0,11.0,terrestrial + aquatic,larval
+melanophryniscus stelzneri,30.0,351.0,351.0,terrestrial + aquatic,larval
+hyperolius marmoratus,43.0,150.0,650.0,terrestrial + arboreal,larval
+litoria dentata,45.5,238.0,3054.0,terrestrial + aquatic + arboreal,larval
+rhinella ornata,84.29,1477.0,5964.0,terrestrial,larval
+aplastodiscus leucopygius,45.1,127.0,322.0,terrestrial + aquatic + arboreal,larval
+hypsiboas faber,104.0,1724.0,3000.0,terrestrial + aquatic + arboreal,larval
+aneides vagrans,130.0,6.0,9.0,terrestrial + aquatic,direct
+limnonectes kuhlii,81.5,26.0,80.0,terrestrial + aquatic,larval
+arthroleptella bicolor,22.0,8.0,10.0,terrestrial + aquatic,direct
+spea hammondii,61.0,186.0,400.0,terrestrial + aquatic + arboreal,larval
+pseudorana weiningensis,43.0,313.0,313.0,terrestrial + aquatic,larval
+myersiella microps,40.0,18.0,32.0,fossorial + terrestrial + aquatic,direct
+pelophylax shqipericus,75.0,3000.0,3000.0,terrestrial + aquatic,larval
+lithobates blairi,111.0,5250.0,5250.0,terrestrial + aquatic,larval
+scinax fuscomarginatus,26.7,185.0,421.0,terrestrial + aquatic + arboreal,larval
+ptychadena nana,30.0,120.0,551.0,terrestrial + aquatic + arboreal,larval
+hydromantes shastae,108.0,9.0,12.0,terrestrial + aquatic,direct
+pseudopaludicola saltica,22.0,45.0,139.0,terrestrial + aquatic,larval
+adelotus brevis,45.0,243.0,243.0,fossorial + terrestrial + aquatic,larval
+afrixalus crotalus,24.0,50.0,50.0,terrestrial + aquatic + arboreal,larval
+cophixalus mcdonaldi,25.0,17.0,17.0,terrestrial + arboreal,direct
+discoglossus montalentii,65.0,1000.0,1000.0,fossorial + terrestrial + aquatic,larval
+philautus schmackeri,30.3,6.0,15.0,terrestrial + arboreal,direct
+rhinella margaritifera,74.0,186.0,1537.0,terrestrial,larval
+phyllomedusa trinitatis,95.5,40.0,40.0,terrestrial + aquatic + arboreal,larval
+telmatobufo venustus,65.1,111.0,111.0,terrestrial + aquatic + arboreal,larval
+nanorana annandalii,51.5,160.0,160.0,terrestrial,larval
+breviceps macrops,50.0,43.0,43.0,fossorial + terrestrial + aquatic,direct
+phrynobatrachus natalensis,40.0,150.0,650.0,terrestrial + aquatic,larval
+physalaemus centralis,40.0,985.0,2821.0,terrestrial + aquatic,larval
+hyloxalus bocagei,29.5,28.0,50.0,terrestrial + aquatic,larval
+plethodon neomexicanus,143.0,5.0,12.0,terrestrial + aquatic,direct
+phyllomedusa bicolor,135.0,22.0,860.0,aquatic + arboreal,larval
+ranitomeya sirensis,19.9,1.0,4.0,terrestrial + arboreal,larval
+breviceps sylvestris,50.0,56.0,56.0,fossorial + terrestrial + aquatic,direct
+hyperolius molleri,33.0,70.0,110.0,aquatic + arboreal,larval
+tylototriton hainanensis,148.0,58.0,90.0,terrestrial,larval
+boophis tephraeomystax,50.0,1000.0,1000.0,arboreal,larval
+phyllomedusa ayeaye,46.1,20.0,31.0,terrestrial + arboreal,larval
+scaphiophryne calcarata,33.0,465.0,465.0,fossorial + terrestrial + aquatic,larval
+buergeria buergeri,76.0,177.0,659.0,terrestrial + arboreal,larval
+incilius campbelli,90.0,5000.0,5000.0,terrestrial,larval
+gegeneophis ramaswamii,340.0,2.0,21.0,fossorial + terrestrial + aquatic,direct
+desmognathus imitator,87.0,13.0,30.0,terrestrial + aquatic,larval
+phrynobatrachus francisci,22.0,1000.0,2500.0,terrestrial + aquatic,larval
+ameerega braccata,21.8,7.0,7.0,terrestrial,larval
+dendropsophus sanborni,21.1,60.0,130.0,terrestrial + aquatic + arboreal,larval
+litoria tornieri,35.0,69.0,200.0,terrestrial + aquatic + arboreal,larval
+nymphargus griffithsi,26.6,9.0,9.0,terrestrial + arboreal,larval
+uperoleia marmorata,30.0,200.0,200.0,terrestrial + aquatic,larval
+chiromantis doriae,27.4,180.0,990.0,terrestrial + arboreal,larval
+metaphrynella sundana,30.0,79.0,79.0,terrestrial + arboreal,larval
+agalychnis callidryas,77.2,19.0,265.0,terrestrial + aquatic + arboreal,larval
+pseudacris ocularis,17.5,100.0,232.0,fossorial + terrestrial + aquatic,larval
+psychrophrynella illampu,23.9,8.0,8.0,terrestrial + aquatic,direct
+pipa parva,44.0,186.0,186.0,fossorial + aquatic,larval
+odorrana supranarina,103.0,1100.0,1100.0,terrestrial,larval
+gastrotheca albolineata,60.0,5.0,33.0,terrestrial + aquatic + arboreal,direct
+corythomantis greeningi,86.5,700.0,700.0,terrestrial + aquatic + arboreal,larval
+pseudacris regilla,50.0,265.0,807.0,terrestrial + aquatic,larval
+phyllomedusa vaillantii,84.0,186.0,1250.0,terrestrial + aquatic + arboreal,larval
+limnodynastes terraereginae,76.0,192.0,192.0,terrestrial + aquatic + arboreal,larval
+phrynoidis aspera,140.0,9500.0,16000.0,terrestrial + aquatic,larval
+polypedates leucomystax,80.0,100.0,337.0,terrestrial + arboreal,larval
+dendropsophus marmoratus,56.0,186.0,1580.0,terrestrial + arboreal,larval
+ranitomeya imitator,18.2,1.0,4.0,terrestrial + arboreal,larval
+hyalinobatrachium fleischmanni,32.0,18.0,30.0,terrestrial + aquatic + arboreal,larval
+quasipaa boulengeri,134.0,218.0,218.0,terrestrial + aquatic,larval
+pristimantis diadematus,108.0,18.0,62.0,arboreal,direct
+rana kukunoris,61.9,265.0,2000.0,terrestrial + aquatic + arboreal,larval
+engystomops petersi,39.0,300.0,563.0,terrestrial,larval
+calotriton asper,160.0,20.0,30.0,terrestrial + aquatic,larval
+dicamptodon copei,191.0,25.0,115.0,terrestrial + aquatic,larval
+taudactylus rheophilus,30.0,35.0,50.0,terrestrial + aquatic,larval
+incilius alvarius,165.0,7500.0,8000.0,terrestrial,larval
+occidozyga laevis,48.0,107.0,140.0,fossorial + aquatic,larval
+meristogenys amoropalamus,67.4,232.0,232.0,fossorial + terrestrial + aquatic,larval
+anaxyrus compactilis,91.0,5000.0,5000.0,terrestrial,larval
+pelobates cultripes,110.0,2500.0,2500.0,fossorial + terrestrial + aquatic,larval
+rana boylii,73.0,200.0,980.0,terrestrial + aquatic + arboreal,larval
+hoplobatrachus tigerinus,178.0,5750.0,5750.0,terrestrial + aquatic + arboreal,larval
+eleutherodactylus leberi,33.0,27.0,27.0,terrestrial + aquatic + arboreal,direct
+ambystoma opacum,127.0,100.0,100.0,terrestrial + aquatic,larval
+epipedobates boulengeri,21.8,11.0,29.0,terrestrial + aquatic,larval
+anotheca spinosa,80.0,48.0,317.0,terrestrial + aquatic + arboreal,larval
+pipa aspera,45.0,12.0,26.0,fossorial + aquatic,direct
+phyllobates lugubris,24.0,5.0,30.0,terrestrial + aquatic,larval
+acanthixalus spinosus,38.3,8.0,10.0,terrestrial + aquatic + arboreal,larval
+eleutherodactylus nivicolimae,23.5,12.0,12.0,terrestrial + aquatic + arboreal,direct
+gegeneophis carnosus,280.0,5.0,15.0,fossorial + terrestrial + aquatic,direct
+rhinella crucifer,130.0,2000.0,2000.0,terrestrial,larval
+phyllomedusa hypochondrialis,46.0,25.0,300.0,terrestrial + aquatic + arboreal,larval
+oxydactyla stenodactyla,32.0,23.0,23.0,terrestrial + aquatic,direct
+ranitomeya amazonica,19.0,1.0,6.0,terrestrial + arboreal,larval
+xenopus muelleri,90.0,436.0,436.0,terrestrial + aquatic + arboreal,larval
+syncope antenori,14.0,5.0,6.0,terrestrial + arboreal,direct
+litoria australis,100.0,150.0,4000.0,fossorial + terrestrial,larval
+lissotriton italicus,80.0,400.0,400.0,terrestrial,larval
+nanorana parkeri,55.0,103.0,399.0,terrestrial + aquatic + arboreal,larval
+incilius holdridgei,53.0,45.0,137.0,fossorial + terrestrial,larval
+pseudacris feriarum,38.0,18.0,600.0,fossorial + terrestrial + aquatic,larval
+neobatrachus aquilonius,60.0,1426.0,1426.0,fossorial + terrestrial + aquatic,larval
+phrynobatrachus plicatus,41.5,1900.0,1900.0,terrestrial + aquatic + arboreal,larval
+gracixalus gracilipes,29.5,2.0,8.0,arboreal,larval
+scinax cruentommus,32.0,80.0,1200.0,terrestrial + arboreal,larval
+edalorhina perezi,38.0,69.0,154.0,terrestrial + aquatic,larval
+leptodactylus rhodomystax,90.0,247.0,290.0,terrestrial + aquatic,larval
+nanorana ventripunctata,49.4,290.0,332.0,terrestrial + aquatic + arboreal,larval
+dendropsophus minutus,27.6,160.0,424.0,terrestrial + arboreal,larval
+nanorana taihangnica,103.4,302.0,611.0,terrestrial,larval
+scutiger jiulongensis,75.0,990.0,990.0,terrestrial + aquatic + arboreal,larval
+lepidobatrachus llanensis,100.0,3696.0,3696.0,fossorial,larval
+microhyla heymonsi,30.4,157.0,350.0,terrestrial + aquatic,larval
+nyctibatrachus kempholeyensis,24.4,10.0,10.0,terrestrial + aquatic + arboreal,larval
+plethodon vehiculum,115.0,19.0,19.0,terrestrial + aquatic,direct
+pseudacris streckeri,48.0,200.0,450.0,fossorial + terrestrial + aquatic,larval
+allobates talamancae,25.0,18.0,50.0,terrestrial + aquatic,larval
+nymphargus wileyi,31.9,28.0,28.0,terrestrial + aquatic + arboreal,larval
+adelphobates galactonotus,40.5,5.0,15.0,terrestrial,larval
+rana johnsi,46.5,1500.0,1600.0,terrestrial + aquatic + arboreal,larval
+agalychnis moreletii,85.0,12.0,218.0,terrestrial + arboreal,larval
+proceratophrys boiei,74.3,1296.0,1296.0,terrestrial + aquatic,larval
+stefania coxi,70.0,4.0,8.0,arboreal,direct
+physalaemus kroyeri,35.0,949.0,1968.0,terrestrial + aquatic,larval
+chioglossa lusitanica,160.0,20.0,20.0,terrestrial + aquatic,larval
+scinax funereus,43.0,225.0,740.0,terrestrial + arboreal,larval
+austrochaperina palmipes,49.0,12.0,19.0,terrestrial + aquatic,direct
+rana tsushimensis,49.8,300.0,500.0,terrestrial + aquatic + arboreal,larval
+hyla femoralis,44.0,232.0,2000.0,terrestrial + arboreal,larval
+rhacophorus dennysi,128.2,2625.0,2625.0,terrestrial + arboreal,larval
+oreolalax granulosus,59.0,110.0,110.0,terrestrial + aquatic + arboreal,larval
+fejervarya limnocharis,65.0,1560.0,1561.0,terrestrial + aquatic + arboreal,larval
+plethodon hoffmani,137.0,3.0,8.0,terrestrial + aquatic,direct
+thoropa petropolitana,27.0,33.0,33.0,terrestrial + aquatic + arboreal,larval
+dendropsophus ruschii,29.0,10.0,20.0,terrestrial + aquatic + arboreal,larval
+gastrotheca andaquiensis,77.0,10.0,10.0,terrestrial + arboreal,direct
+ecnomiohyla miliaria,113.0,265.0,265.0,aquatic + arboreal,larval
+incilius luetkenii,107.0,3300.0,5600.0,terrestrial,larval
+plectrohyla ixil,47.0,98.0,130.0,terrestrial + aquatic + arboreal,larval
+cycloramphus faustoi,44.0,20.0,31.0,terrestrial,larval
+scutiger tuberculatus,79.0,436.0,436.0,terrestrial + aquatic + arboreal,larval
+adenomus kelaartii,50.0,1000.0,1000.0,terrestrial + aquatic + arboreal,larval
+lithobates septentrionalis,76.0,500.0,2250.0,terrestrial + aquatic,larval
+phasmahyla jandaia,32.0,18.0,30.0,terrestrial + arboreal,larval
+ptychadena oxyrhynchus,85.0,3500.0,3500.0,terrestrial + aquatic + arboreal,larval
+atelopus varius,60.0,18.0,950.0,terrestrial + aquatic,larval
+oreophryne anthonyi,47.0,18.0,31.0,terrestrial + arboreal,direct
+dermophis gracilior,387.0,2.0,16.0,fossorial + terrestrial + aquatic,viviparous
+silverstoneia flotator,18.3,6.0,6.0,terrestrial,larval
+cophixalus aenigma,22.6,17.0,17.0,terrestrial + aquatic,direct
+microhyla ornata,32.0,225.0,225.0,fossorial + terrestrial + aquatic,larval
+ichthyophis bannanicus,378.5,24.0,68.0,fossorial + terrestrial + aquatic,larval
+siren lacertina,978.0,100.0,1400.0,fossorial + terrestrial + aquatic,larval
+thoropa saxatilis,58.0,33.0,33.0,terrestrial + aquatic + arboreal,larval
+arthroleptella drewesii,20.0,10.0,10.0,terrestrial + aquatic,direct
+hemiphractus johnsoni,77.2,18.0,18.0,terrestrial + aquatic,direct
+petropedetes perreti,48.5,84.0,84.0,terrestrial + aquatic + arboreal,larval
+amolops chunganensis,54.3,436.0,437.0,terrestrial + aquatic + arboreal,larval
+litoria pallida,41.0,50.0,350.0,terrestrial + aquatic + arboreal,larval
+eleutherodactylus amplinympha,50.0,4.0,32.0,arboreal,direct
+siphonops paulensis,470.0,4.0,6.0,fossorial + terrestrial + aquatic,direct
+gastrotheca cornuta,81.1,7.0,15.0,terrestrial + arboreal,direct
+pseudohynobius shuichengensis,213.2,22.0,54.0,terrestrial + aquatic,larval
+hamptophryne boliviana,44.0,280.0,2186.0,terrestrial + aquatic,larval
+agalychnis saltator,66.0,25.0,311.0,terrestrial + arboreal,larval
+heleioporus albopunctatus,100.0,250.0,700.0,fossorial + terrestrial + aquatic,larval
+odorrana jingdongensis,108.0,150.0,150.0,terrestrial + aquatic,larval
+melanophryne carpish,34.5,83.0,83.0,terrestrial,larval
+chiromantis simus,22.0,153.0,234.0,arboreal,larval
+eleutherodactylus rivularis,31.0,42.0,42.0,terrestrial + aquatic + arboreal,direct
+philoria kundagungan,30.0,32.0,51.0,terrestrial + aquatic + arboreal,larval
