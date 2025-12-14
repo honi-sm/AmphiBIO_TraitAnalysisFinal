@@ -15,3 +15,13 @@ This project explores statistical relationships between amphibian body size, rep
 - `001_Assumptions/` – assumption testing and diagnostics
 - `01_Descriptive/` descriptive visuals of variance, mean, stdev, etc
 - `02_Inferential/` – hypothesis tests, regression models, and robustness checks
+
+## Future Directions
+
+This analysis prioritizes inference and interpretation over prediction. While robust
+methods were used to address assumption violations, the goal was not to build or tune
+predictive models.
+
+Future work could explore phylogenetic structure, sensitivity analyses, or
+cross-validated models if the research question were expanded. These directions were
+deliberately beyond the scope of the present project.
