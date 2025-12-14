@@ -4,14 +4,14 @@
 [![Status: Academic Project](https://img.shields.io/badge/Status-Coursework%20%7C%20UNO-orange.svg)]()
 
 # AmphiBIO_TraitAnalysisFinal
-Statistical and bioinformatics analysis of global amphibian trait data using the AmphiBIO database. Developed as part of the Statistics for Information Science &amp; Technology course at the University of Nebraska Omaha.
+Statistical analysis of global amphibian trait data using the AmphiBIO database. Developed as part of the Statistics for Information Science &amp; Technology course at the University of Nebraska Omaha.
 
 ## Project Overview
 Hihi!!!! :> 
-This project explores statistical relationships between amphibian body size, reproductive mode, and habitat type using data from the AmphiBIO Global Amphibian Traits Database. It analyzes how statistical inference can be used for different datasets, and in my project, applied to biological data!
+This project explores statistical relationships between amphibian body size, reproductive mode, and habitat type using data from the AmphiBIO Global Amphibian Traits Database. It demonstrates the application of statistical inference methods to biological trait data.
 
-The project includes:
-- Data cleaning and sampling scripts
-- Descriptive and inferential statistical analyses (ANOVA, Chi-Square)
-- Regression modeling and visualization
-- Cross-validation using R and Python
+### Repository Structure
+- `00_CleanedData/` – data cleaning, validation, and sampling
+- `001_Assumptions/` – assumption testing and diagnostics
+- `01_Descriptive/` descriptive visuals of variance, mean, stdev, etc
+- `02_Inferential/` – hypothesis tests, regression models, and robustness checks
